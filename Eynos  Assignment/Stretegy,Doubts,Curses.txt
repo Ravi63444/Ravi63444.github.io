@@ -1,0 +1,16 @@
+Stretegy-> 
+1>Drew a rough sketch of how the design and flow should be in a paper.
+2> Divided the page into different components
+3>worked on different component individually.
+4>Figure out the way to integrate all components for desired output.
+
+Doubts->
+1>Major doubts were on the data given as they were not clear for proper structure and work flow.
+2>who will decide on timeline and ratings data?
+3>what are possible content category for portal?
+4>400 Words- was this length of article or Limit of words of article?
+5>How many jobs should be their in a page as given 1-8 but showing more than that(as per scrollbar)
+6?400 words- in case of content category(Audio) what should be the data.
+
+Curses->
+1> Media Query work and major work in css instead of React(logics and state management)
